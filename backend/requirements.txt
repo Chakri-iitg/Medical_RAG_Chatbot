@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain_cohere
+cohere
+pypdf
+chromadb
+sentence-transformers
+python-dotenv
