@@ -14,22 +14,21 @@ This project is designed with industry best practices: a modular backend API usi
 - Clear **frontend-backend separation** for maintainability and scalability.
 
 ## Project Structure
-
+```
 medical-rag-chatbot/
 ├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── rag_engine.py
-│   │   ├── pdf_ingest.py
-│   │   ├── config.py
-│   ├── requirements.txt
+│ ├── app/
+│ │ ├── main.py
+│ │ ├── rag_engine.py
+│ │ ├── pdf_ingest.py
+│ │ ├── config.py
+│ ├── requirements.txt
 ├── frontend/
-│   ├── medical_chatbot_streamlit.py
-│   ├── requirements.txt
+│ ├── medical_chatbot_streamlit.py
+│ ├── requirements.txt
 ├── .env
 ├── README.md
-
-
+```
 ## Prerequisites
 
 - Python 3.8 or higher
